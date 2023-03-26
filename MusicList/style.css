@@ -1,0 +1,102 @@
+.bodyE {
+    background-color: rgba(235, 110, 110, 0.877);
+}
+
+.bodyK {
+background-color: rgba(55, 114, 243, 0.884);
+}
+
+.bodyH {
+    background-color: rgb(179, 26, 26);
+}
+
+.bodyM {
+    background-color: rgba(22, 177, 130, 0.705);
+}
+
+.bodyI {
+    background-color: rgba(248, 148, 195, 0.836);
+}
+
+.bodyU {
+    background-color: burlywood
+}
+
+.ortala {
+    margin-left: 800px;
+}
+
+.text-size {
+    font-size: 20px ;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.backgroundEnergy {
+    background-image: url(energy.jpg);
+    opacity: 0.9;
+    background-repeat: repeat-x;
+}
+
+.textEnergy {
+    color: rgb(77, 75, 75);
+}
+
+.backgroundUyku {
+    background-image: url(uyku.jpg);
+    opacity: 0.9;
+    background-repeat: repeat-x;
+}
+
+.backgroundKonsantre {
+    background-image: url(konsantre.jpg);
+    opacity: 0.9;
+    background-repeat: repeat;
+    background-size:auto;
+}
+
+.backgroundMain {
+    background-image: url(quest.png);
+    opacity: 0.9;
+    background-repeat: repeat-x;
+}
+
+.backgroundHeart {
+    background-image: url(heart.jpg);
+    opacity: 0.9;
+    background-repeat: repeat-x;
+}
+
+.backgroundIletisim {
+    background-image: url(indir.jpg);
+    opacity: 0.9;
+    background-repeat: repeat-x;
+}
+
+.wordSpace {
+    word-spacing: 90px;
+}
+
+.text {
+    text-align: justify;
+}
+
+.textColor {
+    color: black;
+}
+a:link {
+    text-decoration: none;
+  }
+
+  a:hover {
+    text-decoration: underline;
+  }
+
+  a:link {
+    color: black;
+  }
+  a:visited {
+    color: black;
+  }
+  a:hover {
+    color: white;
+  }
